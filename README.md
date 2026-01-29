@@ -29,9 +29,15 @@ Improvement & Future Plans
 - Add **Multi-threading** to speed up multi-page extraction.
 - Integrate **Sentiment Analysis** on extracted headlines.
 
+***********************************************************************************************
 How to run?
 I uploaded the web scraping code I wrote; it's in the file panel on the side.
 - BBC_NEWS.py(main file)
 - BBC_saving_method.py(code for storing methods)
+  
+  OR
+  
+clone the address:https://github.com/Ivy313-web/BBC_NEWS_SCRAPER.git
+***********************************************************************************************
 
   Welcome to comment on it ，I will keep going!😁
